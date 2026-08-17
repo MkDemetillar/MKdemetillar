@@ -13,12 +13,13 @@
 - 🚀 Interested in software development
 - 📍 Based in Philippines
 
-📚 Currently Learning
-☕ Java Programming
-🧩 Object-Oriented Programming
-🗄️ MySQL Database
-🌐 HTML & CSS
-⚡ JavaScript
-🔧 Git & GitHub
-🖥️ Software Development
-📊 Database Systems
+## 📚 Currently Learning
+
+- ☕ Java Programming
+- 🧩 Object-Oriented Programming
+- 🗄️ MySQL Database
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- 🔧 Git & GitHub
+- 🖥️ Software Development
+- 📊 Database Systems
