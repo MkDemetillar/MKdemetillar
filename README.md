@@ -6,9 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Information technology Student
 - 💻 Currently learning Java
-- 🗄️ Learning MySQL and database development
 - 🌱 Improving my programming skills
 - 🚀 Interested in software development
 - 📍 Based in Philippines
@@ -16,10 +15,13 @@
 ## 📚 Currently Learning
 
 - ☕ Java Programming
-- 🧩 Object-Oriented Programming
 - 🗄️ MySQL Database
-- 🌐 HTML & CSS
-- ⚡ JavaScript
 - 🔧 Git & GitHub
 - 🖥️ Software Development
 - 📊 Database Systems
+
+## 🛠️ Technologies & Skills
+
+- ☕ Java
+- 🖥️ Building PC
+- 🔧 Troubleshooting
